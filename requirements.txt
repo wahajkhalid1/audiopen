@@ -4,3 +4,4 @@ ffmpeg-python==0.2.0
 openai==0.28.0
 openai-whisper==20230314
 python-dotenv==1.0.0
+django-heroku==0.3.1
