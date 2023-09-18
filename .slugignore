@@ -1,0 +1,11 @@
+venv
+media
+.env
+*.pyc
+__pycache__/*
+*.sqlite3
+
+*.psd
+*.pdf
+/test
+/spec
